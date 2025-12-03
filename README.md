@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Adar5h-5harma
 - 👀 I’m interested in STEAM and Robotics 
 - 🌱 I’m currently learning Python & ML 
-- 💞️ I’m looking to collaborate on My project about STEAM education platform
-- 📫 How to reach me - Social Medias
 - 😄 Pronouns: Ikigai
 
 <!---
