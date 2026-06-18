@@ -15,7 +15,7 @@
 
 ## About Me
 
-I'm an AI & Data Engineering student at **Lumbini Technical University**, Nepal, focused on building end-to-end intelligent systems — from raw data scraping to AI-powered normalization to production-ready APIs.
+I'm a CS&AI student at **Lumbini Technical University**, Nepal, focused on building end-to-end intelligent systems — from raw data scraping to AI-powered normalization to production-ready APIs.
 
 I don't just study ML theory. I build things that solve real problems:
 - 🕷️ Multi-source web scrapers that handle inconsistent, messy retailer data
