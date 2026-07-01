@@ -23,7 +23,7 @@ I don't just study ML theory. I build things that solve real problems:
 - 📊 Django-backed REST APIs that serve clean, structured data downstream
 - 🔍 Market intelligence tools for fragmented, unstructured industries
 
-Currently building: **Phase 2 of a Fragrance Intelligence System** — connecting retail POS systems (Bsale, Shopify, VTEX) to a live inventory and pricing engine for the Chilean fragrance market.
+Currently building: **Phase 1 of a Fragrance Intelligence System** — connecting retail POS systems (Bsale, Shopify, VTEX) to a live inventory and pricing engine for the Chilean fragrance market.
 
 ---
 
